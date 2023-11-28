@@ -1,0 +1,16 @@
+===== COLOCAR NÚMEROS NO DIVIDENDO =====
+1. Receber o número
+2. Incrementar o index do dividendo
+3. Colocar em dividendo[index] o número
+4. Verificar se index == 10
+5. Sim, termina este procedimento
+6. Não, volta a pedir um número
+
+===== COLOCAR NÚMEROS NO DIVISOR =====
+1. Receber o número
+2. Receber a variável divisor
+3. Multiplicar a variável divisor por 10
+4. Adicionar o número
+5. Verificar se o DX <> 0 (o valor é superior a 65535)
+6. Não, finaliza
+7. Sim, apaga os dados da variável

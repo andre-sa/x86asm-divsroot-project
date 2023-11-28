@@ -1,0 +1,21 @@
+formato para guardar ficheiros:
+
+   "operação sinal dividendo divisor resto quociente"
+   "operação sinal radicando resto raiz"
+
+exemplos:
+
+0 0 44 2 0 22
+
+
+pseudocódigo:
+
+1. [AbrirFicheiro]
+2. Inicializar o bufferEscrita_I a zero
+3. Si aponta para o bufferEscrita
+4. si = si + bufferEscrita_I
+5. si <- flagOperacao
+6. incrementa si
+7. si <- flagSinal
+8. incrementa si
+9. si <- dividendo

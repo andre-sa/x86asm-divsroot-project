@@ -1,0 +1,12 @@
+[1] [2] [3] [4] [5] [backspace]
+[6] [7] [8] [9] [0] [  enter  ]
+
+objetivo ter números gerados aleatoriamente
+
+mais fácil é ir ao relógio buscar números
+
+
+151
+169
+171
+189

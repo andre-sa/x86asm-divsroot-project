@@ -1,0 +1,5 @@
+1. Definir array "numAleat" e preenchê-lo com ' ' (espaços)
+2. Gerar um número aleatório com o relógio
+3. Verifica index a index de numAleat se o número aleatório já existe no array
+4. Se sim, salta para o passo 2
+5. Se não, coloca esse número gerado numa posição em numAleat que contenha um ' ' (espaço)
